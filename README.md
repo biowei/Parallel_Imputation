@@ -1,4 +1,4 @@
-# Parallel_Imputation
+# Parallel_Imputation of large scale SNP data
 
 LiftOver
 Phasing
