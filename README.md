@@ -39,3 +39,5 @@ During this step, the data is split into many chunks, in order to impute the dat
 Tools used by the Imputation step:
 
 MiniMac3 
+
+*[Tutorial](http://nbviewer.jupyter.org/github/biowei/Parallel_Imputation/blob/master/70208_Imputation-psa-other.ipynb)
